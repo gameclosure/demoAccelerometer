@@ -1,0 +1,16 @@
+{
+  "appID": "139081d978b6423085b81df7ff09bac2",
+  "dependencies": {
+    "devkit-accelerometer": "https://github.com/gameclosure/accelerometer#v2.0.0",
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.0.13"
+  },
+  "shortName": "demoAccelerometer",
+  "studio": {
+    "domain": "gameclosure.com",
+    "name": "GameClosure"
+  },
+  "supportedOrientations": [
+    "portrait"
+  ],
+  "title": "demoAccelerometer"
+}
